@@ -1,6 +1,6 @@
 # SpectraLab Terms of Use
 
-_Last updated: October 5, 2026_
+_Last updated: October 7, 2026_
 
 These Terms of Use govern your use of SpectraLab, a paranormal investigation and evidence-analysis application published by DAEDALUS.
 
@@ -30,6 +30,8 @@ Pro access may be provided through:
 - signed owner, tester, or partner passes issued by DAEDALUS.
 
 Features, limits, and pricing may evolve over time.
+
+For Free users, closed investigations are retained in SpectraLab for 15 days after closure and are then automatically deleted with their associated app-managed evidence. Pro users and users with an active signed Owner, Tester, or Partner pass are not subject to this automatic 15-day retention limit. Exported copies saved outside SpectraLab remain under the user's control.
 
 ## 4. First investigation and promotional access
 

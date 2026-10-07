@@ -1,6 +1,6 @@
 # SpectraLab Privacy Policy
 
-_Last updated: October 5, 2026_
+_Last updated: October 7, 2026_
 
 SpectraLab is a paranormal investigation and evidence-analysis application published by DAEDALUS.
 
@@ -53,7 +53,15 @@ SpectraLab is not designed or marketed as a children's application.
 
 ## 9. Data retention
 
-Locally stored data remains on your device until you delete it, reset the application, uninstall the application, or remove exported files from their destination.
+For Free users, a closed investigation and the investigation data managed by SpectraLab are retained locally for 15 days after the investigation is closed. After that period, SpectraLab automatically deletes the investigation and its associated app-managed evidence on the next application startup.
+
+Users with an active SpectraLab Pro subscription or an active signed Owner, Tester, or Partner pass are not subject to this automatic 15-day investigation-retention limit.
+
+Users may also manually delete a closed investigation at any time. Manual deletion removes the investigation and the associated app-managed database records and private evidence files, including linked audio, video, images, events, and Evidence Locker data.
+
+Files or copies that you explicitly exported or saved outside SpectraLab are not automatically deleted by deleting an investigation and remain under your control.
+
+Other locally stored application data remains on your device until you delete it, reset the application, or uninstall the application.
 
 Data processed by Google Play or Google AdMob is subject to Google's own retention practices.
 

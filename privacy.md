@@ -1,6 +1,6 @@
 # SpectraLab Privacy Policy
 
-_Last updated: October 7, 2026_
+_Last updated: November 6, 2026_
 
 SpectraLab is a paranormal investigation and evidence-analysis application published by DAEDALUS.
 
@@ -29,15 +29,21 @@ Permissions are used only to provide the corresponding feature and can be manage
 
 ## 4. Advertising
 
-The free version of SpectraLab may use Google AdMob to display rewarded advertising. Advertising is not intended to interrupt an active investigation.
+The free version of SpectraLab may use Google AdMob to display a small banner on the Home screen and **voluntary rewarded advertisements** to unlock passive analysis areas for limited periods. These advertisements are not shown during an active investigation or to users whose Pro or other ad-free entitlement is active.
 
-Google and its advertising partners may process device identifiers, approximate location, diagnostics, advertising interactions, and related data in accordance with Google's own privacy policies and consent requirements.
+Google's User Messaging Platform (UMP) is used to collect and manage advertising privacy choices where applicable. No ad request is made unless the Google SDK reports that advertising may be requested. Privacy options are available through the application when required.
+
+Google and its advertising partners may process device identifiers, approximate location, diagnostics, advertising interactions, and related data in accordance with Google's privacy policies and the user's applicable choices.
+
+If configured, a technical failure-reporting service may receive only a predefined error category and timestamp for unavailable ads. It does not receive investigation evidence, recordings, payment card details or purchase tokens.
 
 ## 5. Purchases and subscriptions
 
 SpectraLab may offer Google Play subscriptions and promotional access to Pro features.
 
 Payment information is processed by Google Play. DAEDALUS does not receive or store your full payment-card details.
+
+When secure verification is enabled, SpectraLab sends the Google Play purchase token, subscription product identifier and a random installation identifier over HTTPS to a DAEDALUS-operated verification endpoint. The endpoint queries the Google Play Developer API, checks entitlement and responds with a short-lived digitally signed authorization. Purchase tokens and service-account credentials are not embedded in the app's saved entitlement. The verification service does not intentionally persist purchase tokens.
 
 ## 6. Pro and partner access
 
@@ -53,9 +59,9 @@ SpectraLab is not designed or marketed as a children's application.
 
 ## 9. Data retention
 
-For Free users, a closed investigation and the investigation data managed by SpectraLab are retained locally for 15 days after the investigation is closed. After that period, SpectraLab automatically deletes the investigation and its associated app-managed evidence on the next application startup.
+SpectraLab identifies closed investigations that have passed the 15-day Free retention period. In the current Android release, the application **displays a warning instead of automatically deleting the investigation or its evidence on startup**. Users can export their evidence and choose when to remove it.
 
-Users with an active SpectraLab Pro subscription or an active signed Owner, Tester, or Partner pass are not subject to this automatic 15-day investigation-retention limit.
+Users with an active SpectraLab Pro subscription or an active signed Owner, Tester, or Partner pass are exempt from the Free retention restriction.
 
 Users may also manually delete a closed investigation at any time. Manual deletion removes the investigation and the associated app-managed database records and private evidence files, including linked audio, video, images, events, and Evidence Locker data.
 
